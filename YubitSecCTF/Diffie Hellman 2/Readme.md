@@ -3,10 +3,10 @@ Diffie-Hellman II
 **Category: Steganography**
 **Points: 275**
 
-`II. part is STEGO.`
-`If you already solved the I. part.`
-`Everything is clear.`
-`Just analyze the file.`
+`II. part is STEGO.
+If you already solved the I. part.
+Everything is clear.
+Just analyze the file.`
 
 This part is a continuation of Diffie Hellman I. The first part was basic bruteforce.
 
