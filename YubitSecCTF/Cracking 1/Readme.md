@@ -1,6 +1,6 @@
 Cracking
 ======
-**Category: Forensics
+**Category: Forensics**
 **Points: 150**
 
 `Can you break it ?`
